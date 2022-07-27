@@ -1,0 +1,29 @@
+object Frame3: TFrame3
+  Size.Width = 893.000000000000000000
+  Size.Height = 681.000000000000000000
+  Size.PlatformDefault = False
+  object SVG: TSkSvg
+    Align = Client
+    Locked = True
+    Size.Width = 893.000000000000000000
+    Size.Height = 681.000000000000000000
+    Size.PlatformDefault = False
+    Svg.Source = 
+      '<svg'#13#10#9'xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">' +
+      #13#10#9'<circle '#13#10'        id="c1" '#13#10'        cx="100" cy="100" r="75" ' +
+      #13#10'        fill="none"'#13#10'        stroke="#1d1d1b"'#13#10'        stroke-' +
+      'width="10px"'#13#10'        stroke-dasharray="572, 1000"'#13#10'     />'#13#10'   ' +
+      '  <line'#13#10'        id="lu"'#13#10'        x1="55"  y1="80"'#13#10'        x2="' +
+      '145" y2="80"'#13#10'        fill="none"'#13#10'        stroke="#5d5d5b"'#13#10'   ' +
+      '     stroke-width="10px"'#13#10'        stroke-linecap="round"'#13#10'      ' +
+      '  transform="translate(0 0) rotate(-0 55 80)"'#13#10'     />'#13#10'     <li' +
+      'ne'#13#10'        id="lc"'#13#10'        x1="55"  y1="100"'#13#10'        x2="145"' +
+      ' y2="100"'#13#10'        fill="none"'#13#10'        stroke="#5d5d5b"'#13#10'      ' +
+      '  stroke-width="10px"'#13#10'        stroke-linecap="round"'#13#10'     />'#13#10 +
+      '     <line'#13#10'        id="ld"'#13#10'        x1="55"  y1="120"'#13#10'        ' +
+      'x2="145" y2="120"'#13#10'        fill="none"'#13#10'        stroke="#5d5d5b"' +
+      #13#10'        stroke-width="10px"'#13#10'        stroke-linecap="round"'#13#10' ' +
+      '       transform="translate(0 0) rotate(0 55 120)"'#13#10'     />'#13#10'</s' +
+      'vg>'
+  end
+end

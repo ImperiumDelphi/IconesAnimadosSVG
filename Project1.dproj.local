@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/29 20:12:40.000.254,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 13:29:42.000.974,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/29 20:59:19.000.783,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 22:30:39.000.239,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 21:21:52.000.139,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 15:17:33.000.456,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 15:17:54.000.062,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/26 22:17:32.000.542,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/03 10:18:56.000.501,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/06 20:24:26.000.956,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/10 20:17:04.000.031,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/14 21:33:30.000.565,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/26 10:35:03.000.346,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/09 20:09:55.147,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/09 21:33:52.143,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/06/10 00:02:11.090,C:\Back\IntensiveDelphi2022\Fontes\Unit3.pas=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/06/10 00:02:11.090,C:\Back\IntensiveDelphi2022\Fontes\Unit3.fmx=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2022/06/10 00:02:12.321,C:\Back\IntensiveDelphi2022\Fontes\Unit2.pas=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/10 00:02:12.321,C:\Back\IntensiveDelphi2022\Fontes\Unit2.fmx=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/06/10 00:02:14.150,C:\Back\IntensiveDelphi2022\Fontes\Project1.dproj=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0012765808" Android64="0012765808"/>
+		<PiOS iOSDevice64="_iosdevice_00008030-001465802630802E"/>
+	</ActiveMobileDevice>
+</BorlandProject>
